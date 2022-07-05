@@ -1,4 +1,4 @@
-#include "_putchar.h"
+#include "main.h"
 /**
  * times_table -prints tables
  * Return: nothing
