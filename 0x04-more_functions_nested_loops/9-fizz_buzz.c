@@ -1,5 +1,3 @@
-#include "holberton.h"
-
 #include <stdio.h>
 #inchude "main.h"
 /**
